@@ -28871,16 +28871,16 @@ void main() {
     vec4 texColor = texture2D(uTexture, vUv);
     gl_FragColor = texColor;
 }`;
-const XM = "/img/figma.png",
-  qM = "/img/git.png",
-  YM = "/img/github.png",
-  jM = "/img/html.png",
-  KM = "/img/javascript.png",
-  $M = "/img/mongodb.png",
-  ZM = "/img/nodejs.png",
-  JM = "/img/reactjs.png",
-  QM = "/img/tailwind.png",
-  eS = "/img/threejs.svg",
+const XM = "./img/figma.png",
+  qM = "./img/git.png",
+  YM = "./img/github.png",
+  jM = "./img/html.png",
+  KM = "./img/javascript.png",
+  $M = "./img/mongodb.png",
+  ZM = "./img/nodejs.png",
+  JM = "./img/reactjs.png",
+  QM = "./img/tailwind.png",
+  eS = "./img/threejs.svg",
   Fh = { type: "change" },
   yl = { type: "start" },
   zh = { type: "end" };
